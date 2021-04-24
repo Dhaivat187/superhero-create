@@ -1,0 +1,24 @@
+#body_background {
+    background-image: url("background_image.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 20pt;
+    border-style: ridge;
+    background-color: white;
+    border-color: darkgreen;
+}
+
+h1 {
+    width: 400;
+    height: 45;
+    border-radius: 30cm;
+}
+
+h2 {
+    width: 700;
+    height: 35;
+    border-radius: 30cm;
+}
